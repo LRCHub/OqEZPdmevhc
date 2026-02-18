@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アイ・スタンド・アローン",
+  "base_artist": "Godsmack",
+  "createdAt": "2026-02-18T16:22:25.354800Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Stand Alone",
+      "artist": "Godsmack",
+      "has_synced": false,
+      "path": "select/pl_01_I_Stand_Alone_Godsmack.txt"
+    }
+  ]
+}
